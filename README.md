@@ -65,20 +65,26 @@ Jane Doe, 23, “Job Interview (1/23)”
 ## NOTES ON GRADING 
 Points will be given to the first 10 students who post interesting sample input files. 
 Create a README (PDF) file which should have the following information: 
+```
 (1) instructions on how to compile the code 
 (2) instructions on how to run the code 
 (3) justification for the choice of data structures (in terms of time and/or space complexity). 
 (4) citations for code referenced online
+```
 
 ### Submission 
+```
 Upload your assignment as a zipped folder to BrightSpace
 In the submission comments provide your github username and hash code [(how?](https://docs.google.com/presentation/d/1TpamPnZ4kqU4pYk86vwq_uqyRJUnHFUXsdNEobfmi7w/edit?usp=sharing)).
 Example:  userName123 - 96905470a5a3bc23293ffd5a003350138a1ce8c6
 See me during lab for a demo.
+```
 
 ## General Requirements 
-Separate out code appropriately into methods, one for each purpose. 
-You should document your code. The comments should not exceed 72 columns in width. 
-Use javadoc style comments if you are coding in Java. Include javadoc style documentation. It is acceptable for this assignment to just have the return type described for each method's documentation. 
-All objects, in Java, that may be needed for debugging purposes should  have the "toString()" method defined. By default, just place a toString() in every class. 
-Every class that has data members, should have corresponding accessors and mutators (unless the data member(s) is/are for use just within the method.). 
+```
+(1) Separate out code appropriately into methods, one for each purpose. 
+(2) You should document your code. The comments should not exceed 72 columns in width. 
+(3) Use javadoc style comments if you are coding in Java. Include javadoc style documentation. It is acceptable for this assignment to just have the return type described for each method's documentation. 
+(4) All objects, in Java, that may be needed for debugging purposes should  have the "toString()" method defined. By default, just place a toString() in every class. 
+(5) Every class that has data members, should have corresponding accessors and mutators (unless the data member(s) is/are for use just within the method.).
+```
